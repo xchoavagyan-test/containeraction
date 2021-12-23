@@ -1,5 +1,5 @@
 name: 'My first action'
-description 'Cloud guru'
+description: 'Cloud guru'
 author: 'Me '
 inputs:
   myInput:
